@@ -1,0 +1,4 @@
+com\apiChallenge\API.class
+com\apiChallenge\ApplicationConfig.class
+com\apiChallenge\test\APITest.class
+com\apiChallenge\test\ApplicationConfigTest.class
